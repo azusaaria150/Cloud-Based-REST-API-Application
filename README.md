@@ -28,9 +28,10 @@ This repository contains a Flask application that provides a REST API for managi
    cd your-repository-name
    ```
 3. Install the dependencies:
-   ```
+
    pip install -r requirements.txt
    ```
+  
 4. Set up your Google Cloud Firestore:
    - Follow the instructions [](https://cloud.google.com/firestore/docs/quickstart-servers) to set up Firestore and authenticate.
 
