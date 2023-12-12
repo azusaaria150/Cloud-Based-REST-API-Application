@@ -24,11 +24,14 @@ This repository contains a Flask application that provides a REST API for managi
    git clone 
    ```
 2. Navigate to the project directory:
+
    ```
    cd your-repository-name
    ```
+
 3. Install the dependencies:
 
+   ```
    pip install -r requirements.txt
    ```
   
