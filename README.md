@@ -17,21 +17,21 @@ This repository contains a Flask application that provides a REST API for managi
 - Python 3.6 or higher
 - Google Cloud account
 - OpenWeatherMap API key
-
+``` 
 ### Setup
 1. Clone the repository:
-   
-   ``` git clone https://github.com/azusaaria150/Cloud-Based-REST-API-Application.git
-   
+   ``` 
+   git clone https://github.com/azusaaria150/Cloud-Based-REST-API-Application.git
+   ``` 
 2. Navigate to the project directory:
-
-   ```cd Cloud-Based-REST-API-Application 
-
+   ``` 
+   cd Cloud-Based-REST-API-Application 
+   ``` 
 3. Install the dependencies:
 
-   
-   ```pip install -r requirements.txt
-  
+   ``` 
+   pip install -r requirements.txt
+   ```   
 4. Set up your Google Cloud Firestore:
    - Follow the instructions [](https://cloud.google.com/firestore/docs/quickstart-servers) to set up Firestore and authenticate.
 
